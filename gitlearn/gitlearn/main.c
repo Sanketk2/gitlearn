@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    int x=8;
-    pritnf("%i\n", x);
+    printf("hello, world \n");
     return 0;
 }
